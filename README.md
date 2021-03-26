@@ -33,11 +33,3 @@ The UI design was made with the following components in mind:
 5. An consolidated homepage- That is simple and at the same time allows user to access all of the above mentioned activities
 The application is focussed on the utility more than the extravagance and hence has a uniform colouring and appealing interface.
 
-## APP DEV SUBMISSION*
-Language/framework used: Java(Android Studio)
-
-**Compulsary Requirements:**
-- An Youtube video link explaining all the features of the developed application : https://youtu.be/3ldRNDX-OLs
-
----
-Developed for AppSprint'20.
