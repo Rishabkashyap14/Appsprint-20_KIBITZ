@@ -30,6 +30,6 @@ The UI design was made with the following components in mind:
 
 4. Liking, commenting and sharing- To encourage the Kibitz-ites these features are also present. There is a pop-up to comment and a page created to view the comments. There is also a page reserved for sharing to ensure simplicity and so that the application is not over-crowded. Functions like liking can be easily accessed with a simple touch/click of the symbol on a post
 
-5. An consolidated homepage- That is simple and at the same time allows user to access all of the above mentioned activities
+5. A consolidated homepage- That is simple and at the same time allows user to access all of the above mentioned activities
 The application is focussed on the utility more than the extravagance and hence has a uniform colouring and appealing interface.
 
